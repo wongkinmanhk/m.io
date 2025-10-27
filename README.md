@@ -1,6 +1,6 @@
 # m.io
 Game, Funny Testing
-[製作超人迪加射擊怪獸遊戲.html](https://github.com/user-attachments/files/23167894/default.html)
+
 <!DOCTYPE html>
 <html lang="zh-TW">
 <head>
