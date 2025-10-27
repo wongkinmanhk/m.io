@@ -1,6 +1,3 @@
-# m.io
-Game, Funny Testing
-
 <!DOCTYPE html>
 <html lang="zh-TW">
 <head>
